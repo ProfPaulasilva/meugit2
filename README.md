@@ -7,3 +7,4 @@
 -aluno3
 -aluno4
 -aluno5
+-aluno6
